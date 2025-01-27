@@ -1,6 +1,6 @@
 # Full-Stack Uni-Chat Application
 
-This repository contains a full-stack chat application built with a React.js frontend and a Node.js/Express.js backend, along with MongoDB for data storage and Socket.IO for real-time communication.
+This repository contains a full-stack chat application built with a React.js frontend and a Express.js backend, along with MongoDB for data storage and Socket.IO for real-time communication.
 
 # Features
 
